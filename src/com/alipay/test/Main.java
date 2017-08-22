@@ -11,7 +11,7 @@ public class Main {
      Scanner s=new Scanner(System.in);
 
      while(s.hasNext()){//判断是否数据结束
-
+//is Right？
        int result=-1;
        int a=s.nextInt();
        int b[]=new int[a];
